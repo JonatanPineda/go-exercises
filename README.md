@@ -1,1 +1,1 @@
-# go-chat-application-practice
+# go-exercises
